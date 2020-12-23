@@ -9,3 +9,5 @@ different kinds of cats. You could feed or play with them using some tools I add
 ![image](https://github.com/ZhemingX/Python-Game---Cat-House/blob/master/readme_figures/ingame.png)
 ![image](https://github.com/ZhemingX/Python-Game---Cat-House/blob/master/readme_figures/start.png)
 ![image](https://github.com/ZhemingX/Python-Game---Cat-House/blob/master/readme_figures/shop.png)
+
+.<img src="https://github.com/ZhemingX/Python-Game---Cat-House/blob/master/readme_figures/ingame.png" width="300" height="450" />
