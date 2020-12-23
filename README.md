@@ -10,7 +10,7 @@ different kinds of cats. You could feed or play with them using some tools I add
 .<img src="https://github.com/ZhemingX/Python-Game---Cat-House/blob/master/readme_figures/start.png" width="250" height="220" />
 .<img src="https://github.com/ZhemingX/Python-Game---Cat-House/blob/master/readme_figures/shop.png" width="250" height="220" />
 
-After download or clone the repository (recommend Linux or MacOS),
+After downloading or cloning the repository (recommend Linux or MacOS),
 ```
 cd cat_house
 ```
