@@ -14,7 +14,7 @@ After download or clone the repository,
 ```
 cd cat_house
 ```
-then,
+then, **open the setting.py and change path variable (home path) to the directory where you put the cat_house folder**, and finally type in: 
 ```
 python3 main.py
 ```
