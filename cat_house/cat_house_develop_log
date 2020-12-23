@@ -1,0 +1,59 @@
+cat_house
+
+add basic framework, basic cat logic, basic setting
+add sprite, sprite group as basic structure for cat and cat group
+
+11.2
+add checkwindow (approved window)
+
+11.4
+scene add score variable
+scene add score display board and comlete logic of showing scores
+scene add botcat trigger function
+scene checkwindowpop add refuse info when score < 50
+fix problem that when opening checkwindowpop the cat still purchases the mouse
+
+11.5
+catgroup add when cats produce value they will display a value msg cloud
+cat entity add cat category for revolution, add some attributes for cat
+
+11.11
+add user pop basic elements
+add shop button, three food buttons
+create the mouse class to replace the traditional mouse, add image, state attribute
+add shopwindow, improve the details of shopwindow, add several buttons
+make connections between scene and shop window, after purchase, the number will be shown
+on the scene board
+
+11.12
+mouse add interact when clicking food icons
+add feature: mouse when in feed state, no cat purchase
+
+11.13
+fix problem when mouse in feed state click shop or cpb button still in feed state
+add feed function
+add cat feed interaction print thanks
+add cat name attributes
+
+11.14
+add cat info display window and fill cat basic info
+add feather button for playing cat (remove pervious rule of gathering cat in mouse normal state)
+add stovel button to kill cat
+add aonoymous text display (regularly)
+add hp decrease rules (set every 8 seconds)
+
+11.18
+adjust some parameters
+add start page
+
+
+
+
+
+
+
+
+
+
+
+
