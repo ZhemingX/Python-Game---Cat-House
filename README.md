@@ -7,4 +7,4 @@ Apart from those, you could have fun with this game! It is a kind of formative g
 different kinds of cats. You could feed or play with them using some tools I added when you feel tired about your work. Then you could hide the game screen and go back to work. Here are some figures
 of the game scene.
 
-![image](https://github.com/ZhemingX/Python-Game---Cat-House/blob/master/readme_figures/ingame.png)
+<img src="https://github.com/ZhemingX/Python-Game---Cat-House/blob/master/readme_figures/ingame.png", width = "200" height = "200"/><br/>
