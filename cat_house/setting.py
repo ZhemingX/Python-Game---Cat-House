@@ -2,7 +2,7 @@
 import pygame
 
 # home path
-path = "/home/xdd/文档/pyfile"
+path = "/home/aaa/bbb/location"
 
 """---------scene----------"""
 
